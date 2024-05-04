@@ -2,20 +2,20 @@
 
 namespace Typographer
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        public void button1_Click(object sender, EventArgs e)
         {
             string processedText = ProcessText(TextBox.Text);
             TextBox.Text = processedText;
         }
 
-        private string ProcessText(string inputText)
+        public string ProcessText(string inputText)
         {
             inputText = FixPunctuation(inputText);
             inputText = RemoveExtraSpaces(inputText);
@@ -28,30 +28,29 @@ namespace Typographer
             return inputText;
         }
 
-        private string FixPunctuation(string inputText)
+        public string FixPunctuation(string inputText)
         {
             // Правило 1. Замена знаков препинания
-            inputText = Regex.Replace(inputText, @"(\w)([^\w\sё]+)", "$1$2 ");
-            inputText = Regex.Replace(inputText, @"([^\w\sё]+)(\w)", "$1 $2");
-            inputText = Regex.Replace(inputText, @"(\w)([\""\(ё])(\S.*?\S)([\""\)ё])", "$1$2$3$4");
+            inputText = Regex.Replace(inputText, @"(\w)([.,!?])", "$1 $2");
+            inputText = Regex.Replace(inputText, @"([.,!?])(\w)", "$1 $2");
             return inputText;
         }
 
-        private string RemoveExtraSpaces(string inputText)
+        public string RemoveExtraSpaces(string inputText)
         {
             // Правило 2. Удаление лишних пробелов
             inputText = Regex.Replace(inputText, @"\s+", " ");
             return inputText;
         }
 
-        private string FixHyphens(string inputText)
+        public string FixHyphens(string inputText)
         {
             // Правило 5. Удаление пробелов перед и после дефиса
             inputText = Regex.Replace(inputText, @"(\S) - (\S)", "$1-$2");
             return inputText;
         }
 
-        private string FixDashUsage(string inputText)
+        public string FixDashUsage(string inputText)
         {
             // Правило 7. Замена дефиса на тире
             inputText = Regex.Replace(inputText, @"(\d+)-(\d+)", "$1—$2");
@@ -59,7 +58,7 @@ namespace Typographer
             return inputText;
         }
 
-        private string ReplaceTemperatures(string inputText)
+        public string ReplaceTemperatures(string inputText)
         {
             // Правило 18. Замена диапазонов температур
             inputText = Regex.Replace(inputText, @"(−?\d+)\.\.\.(−?\d+)\s?°C", "$1...$2 °C");
@@ -67,7 +66,7 @@ namespace Typographer
             return inputText;
         }
 
-        private string CapitalizeSentences(string inputText)
+        public string CapitalizeSentences(string inputText)
         {
             // Свое правило, разделяет текст на предложения. 
             string[] sentences = inputText.Split(new char[] { '.', '!', '?' }, StringSplitOptions.RemoveEmptyEntries);
@@ -83,7 +82,7 @@ namespace Typographer
             return processedText;
         }
 
-        private string ReplaceAWithAtSymbol(string inputText) // абсурдное правило 
+        public string ReplaceAWithAtSymbol(string inputText) // абсурдное правило 
         {
             // замена всех букв "е" на символ "*"
             inputText = inputText.Replace("е", "*").Replace("Е", "*");

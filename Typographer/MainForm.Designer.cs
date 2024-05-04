@@ -1,6 +1,6 @@
 ﻿namespace Typographer
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -49,16 +49,16 @@
             EditButton.Text = "Редактировать текст ";
             EditButton.Click += button1_Click;
             // 
-            // Form1
+            // MainForm
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1209, 450);
             Controls.Add(EditButton);
             Controls.Add(TextBox);
-            Name = "Form1";
+            Name = "MainForm";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Typography App";
+            Text = "Типограф";
             ResumeLayout(false);
             PerformLayout();
         }
