@@ -13,10 +13,10 @@ namespace TypographerTests
             form = new MainForm(); 
         }
         [TestMethod]
-        public void TestFixPunctuation()
+        public void TestFixPunctuationWithNoSpaceBetweenWordAndPunctuation()
         {
-            var inputText = "Привет, мир Как дела?";
-            var expectedOutput = "Привет, мир Как дела? ";
+            var inputText = "Привет,Марат, как жизнь?";
+            var expectedOutput = "Привет, Марат, как жизнь?";
             var result = form.FixPunctuation(inputText);
             Assert.AreEqual(expectedOutput, result);
         }
@@ -24,8 +24,8 @@ namespace TypographerTests
         [TestMethod]
         public void TestRemoveExtraSpaces()
         {
-            var inputText = "Привет, мир Как дела?   ";
-            var expectedOutput = "Привет, мир Как дела? ";
+            var inputText = "Привет, Марат, как жизнь?   ";
+            var expectedOutput = "Привет, Марат, как жизнь? ";
             var result = form.RemoveExtraSpaces(inputText);
             Assert.AreEqual(expectedOutput, result);
         }
@@ -33,8 +33,8 @@ namespace TypographerTests
         [TestMethod]
         public void TestFixHyphens()
         {
-            var inputText = "Привет-мир Как-дела? ";
-            var expectedOutput = "Привет-мир Как-дела? ";
+            var inputText = "Здарова-братуха как-делишки? ";
+            var expectedOutput = "Здарова-братуха как-делишки? ";
             var result = form.FixHyphens(inputText);
             Assert.AreEqual(expectedOutput, result);
         }
@@ -69,8 +69,8 @@ namespace TypographerTests
         [TestMethod]
         public void TestReplaceAWithAtSymbol()
         {
-            var inputText = "Привет, мир!";
-            var expectedOutput = "Прив*т, мир!";
+            var inputText = "Привет, маленький гаденыш!";
+            var expectedOutput = "Прив*т, мал*нький гад*ныш!";
             var result = form.ReplaceAWithAtSymbol(inputText);
             Assert.AreEqual(expectedOutput, result);
         }

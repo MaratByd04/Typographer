@@ -27,12 +27,13 @@ namespace Typographer
             
             return inputText;
         }
-
         public string FixPunctuation(string inputText)
         {
-            // Правило 1. Замена знаков препинания
-            inputText = Regex.Replace(inputText, @"(\w)([.,!?])", "$1 $2");
-            inputText = Regex.Replace(inputText, @"([.,!?])(\w)", "$1 $2");
+            inputText = Regex.Replace(inputText, @"(\w)([.,!?])", "$1 $2"); //замена знаков препинания с пробелом перед ними
+            inputText = Regex.Replace(inputText, @"([.,!?])(\w)", "$1 $2"); //замена знаков препинания с пробелом после них
+            inputText = Regex.Replace(inputText, @"\s+([.,!?])\s+", "$1"); //удаление лишних пробелов между знаками препинания                                                         
+            inputText = Regex.Replace(inputText, @"\s+([.,!?])", "$1"); //удаление лишних пробелов между словами и знаками препинания                                                                      
+            inputText = Regex.Replace(inputText, @"\s*\([^)]*\)\s*", "($1) "); //обработка скобок
             return inputText;
         }
 

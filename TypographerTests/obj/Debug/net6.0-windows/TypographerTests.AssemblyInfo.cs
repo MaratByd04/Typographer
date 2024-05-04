@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypographerTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6015c71cea1f93d8de35478178593141cdfc4d17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93fdf7fca533828d13413661f99530c7220b5e57")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypographerTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypographerTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{99998C27-F9EF-4D1C-A4D1-C1EB2CA3DDAB}|Typographer\\Typographer.csproj|solutionrelative:typographer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99998C27-F9EF-4D1C-A4D1-C1EB2CA3DDAB}|Typographer\\Typographer.csproj|c:\\users\\\u044F\\documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\typographer\\typographer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{99998C27-F9EF-4D1C-A4D1-C1EB2CA3DDAB}|Typographer\\Typographer.csproj|C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\typographer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{99998C27-F9EF-4D1C-A4D1-C1EB2CA3DDAB}|Typographer\\Typographer.csproj|solutionrelative:typographer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -64,8 +64,7 @@
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\TypographerTests\\TypographerTests.csproj",
               "RelativeToolTip": "TypographerTests\\TypographerTests.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T16:29:25.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T16:29:25.86Z"
             },
             {
               "$type": "Document",
@@ -75,7 +74,7 @@
               "RelativeDocumentMoniker": "TypographerTests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\TypographerTests\\UnitTest1.cs",
               "RelativeToolTip": "TypographerTests\\UnitTest1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAIwFQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T16:25:40.83Z",
               "EditorCaption": ""
@@ -83,15 +82,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Typographer",
+              "Title": "Typographer.csproj",
               "DocumentMoniker": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\Typographer\\Typographer.csproj",
               "RelativeDocumentMoniker": "Typographer\\Typographer.csproj",
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\Typographer\\Typographer.csproj",
               "RelativeToolTip": "Typographer\\Typographer.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T12:56:41.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T12:56:41.914Z"
             },
             {
               "$type": "Document",
@@ -101,7 +99,7 @@
               "RelativeDocumentMoniker": "Typographer\\MainForm.cs",
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\Typographer\\MainForm.cs",
               "RelativeToolTip": "Typographer\\MainForm.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAA2AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA/wCQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:16:13.174Z",
               "EditorCaption": ""
@@ -115,21 +113,19 @@
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\Typographer\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "RelativeToolTip": "Typographer\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:09:47.719Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+              "WhenOpened": "2024-05-02T18:09:47.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TypographerTests",
+              "Title": "TypographerTests.csproj",
               "DocumentMoniker": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\TypographerTests\\TypographerTests.csproj",
               "RelativeDocumentMoniker": "TypographerTests\\TypographerTests.csproj",
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\TypographerTests\\TypographerTests.csproj",
               "RelativeToolTip": "TypographerTests\\TypographerTests.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T16:28:03.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T16:28:03.781Z"
             },
             {
               "$type": "Document",
@@ -141,8 +137,7 @@
               "RelativeToolTip": "Typographer\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:27:55.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T12:27:55.774Z"
             },
             {
               "$type": "Document",
@@ -154,8 +149,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "ViewState": "AQIAAC4HAAAAAAAAAAD4v0oHAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-05-04T12:15:36.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T12:15:36.996Z"
             },
             {
               "$type": "Document",
@@ -167,8 +161,7 @@
               "RelativeToolTip": "Typographer\\MainForm.Designer.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwDAAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-02T18:13:15.455Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-02T18:13:15.455Z"
             }
           ]
         }
