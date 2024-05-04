@@ -1,0 +1,16 @@
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\bin\Debug\net6.0-windows\Typographer.exe
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\bin\Debug\net6.0-windows\Typographer.deps.json
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\bin\Debug\net6.0-windows\Typographer.runtimeconfig.json
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\bin\Debug\net6.0-windows\Typographer.dll
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\bin\Debug\net6.0-windows\Typographer.pdb
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.Form1.resources
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.csproj.GenerateResource.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.AssemblyInfoInputs.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.AssemblyInfo.cs
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.csproj.CoreCompileInputs.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.dll
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\refint\Typographer.dll
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.pdb
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\Typographer.genruntimeconfig.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Typographer\Typographer\obj\Debug\net6.0-windows\ref\Typographer.dll
