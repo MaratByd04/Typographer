@@ -12,6 +12,7 @@ namespace TypographerTests
         {
             form = new MainForm(); 
         }
+
         [TestMethod]
         public void TestFixPunctuationWithNoSpaceBetweenWordAndPunctuation()
         {
