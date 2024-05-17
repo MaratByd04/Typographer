@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37480B0B-08A5-4C0B-A588-7D571CF2CB2A}|TypographerTests\\TypographerTests.csproj|c:\\users\\\u044F\\documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\typographer\\typographertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37480B0B-08A5-4C0B-A588-7D571CF2CB2A}|TypographerTests\\TypographerTests.csproj|solutionrelative:typographertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{99998C27-F9EF-4D1C-A4D1-C1EB2CA3DDAB}|Typographer\\Typographer.csproj|c:\\users\\\u044F\\documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\typographer\\typographer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{99998C27-F9EF-4D1C-A4D1-C1EB2CA3DDAB}|Typographer\\Typographer.csproj|solutionrelative:typographer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37480B0B-08A5-4C0B-A588-7D571CF2CB2A}|TypographerTests\\TypographerTests.csproj|c:\\users\\\u044F\\documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\typographer\\typographertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37480B0B-08A5-4C0B-A588-7D571CF2CB2A}|TypographerTests\\TypographerTests.csproj|solutionrelative:typographertests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{99998C27-F9EF-4D1C-A4D1-C1EB2CA3DDAB}|Typographer\\Typographer.csproj|C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\typographer\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -45,7 +45,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -68,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\TypographerTests\\UnitTest1.cs",
               "RelativeDocumentMoniker": "TypographerTests\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\TypographerTests\\UnitTest1.cs",
               "RelativeToolTip": "TypographerTests\\UnitTest1.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAIwFQAAAAJAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAADwv1QAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-04T16:25:40.83Z",
               "EditorCaption": ""
@@ -93,13 +93,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\Typographer\\MainForm.cs",
               "RelativeDocumentMoniker": "Typographer\\MainForm.cs",
               "ToolTip": "C:\\Users\\\u042F\\Documents\\\u0441\u044B\u043D \u043F\u0440\u043E\u0433\u0435\u0440 \u0433\u043E\u0440\u0435 \u0432 \u0441\u0435\u043C\u044C\u0435\\Typographer\\Typographer\\MainForm.cs",
               "RelativeToolTip": "Typographer\\MainForm.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA/wCQAAAAdAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA4wCQAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:16:13.174Z",
               "EditorCaption": ""
